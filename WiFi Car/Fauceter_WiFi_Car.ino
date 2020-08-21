@@ -6,7 +6,7 @@
 #include <ESP8266WiFi.h>
 #include <ESP8266WebServer.h>
 
-IPAddress ip(192,143,4,3);
+IPAddress ip(192,153,5,3);
 IPAddress netmask(255,255,255,0);
 ESP8266WebServer server(8080) ;
 
@@ -127,3 +127,5 @@ void Left(){
     digitalWrite(M2Forward,LOW);
     digitalWrite(M2Backward,LOW);  
  }
+
+//THIS CODE CONTAINS SOME BUGS FOR RECTIFICATION GO & WATCH OUR DIY VIDEO AT YOUTUBE
