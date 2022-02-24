@@ -6,4 +6,4 @@ Blog : https://mpradeepraj.blogspot.com/2020/08/nodemcu-wifi-car.html#more
 
     SUBSCRIBE MY YT CHANNEL
         THE FAUCETER
-https://www.youtube.com/c/THEFAUCETER20MPR/videos
+https://youtu.be/d3Yt01n56Kk
